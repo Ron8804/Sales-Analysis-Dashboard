@@ -23,9 +23,9 @@ It includes **data visualization, forecasting, and customer insights**.
 - `Sales_Analysis_Dashboard.twbx` → **Full Tableau Dashboard file**.
 
 ## **📊 Dashboard Preview**
-![Tableau Dashboard](https://public.tableau.com/thumb.jpg)  
+![Tableau Dashboard](https://public.tableau.com/views/Sales_Analysis_Dashboard_17423552863690/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 ## **👤 Contact & Links**
 📧 Email: [ronitchopra04@gmail.com](mailto:ronitchopra04@gmail.com)  
 🔗 LinkedIn: [Ronit Chopra](https://ca.linkedin.com/in/ronit-chopra-2799332b1)  
-Y
+
